@@ -12,7 +12,7 @@ backports.weakref==1.0.post1
 base58==2.1.1
 bayesian-optimization==1.2.0
 BayesianOptimization==0.0.0
-black==19.10b0
+
 blinker==1.4
 boto==2.49.0
 brotlipy==0.7.0
