@@ -1,3 +1,4 @@
+sklearn
 absl-py==1.0.0
 astunparse==1.6.3
 attrs==21.4.0
