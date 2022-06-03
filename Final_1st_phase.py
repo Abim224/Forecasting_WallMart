@@ -4,6 +4,7 @@ Created on Wed Jun  1 00:59:49 2022
 
 @author: Abinash.m
 """
+import sklearn
 import datetime as dt
 import streamlit as st
 import pandas as pd
