@@ -12,6 +12,7 @@ import numpy as np
 #from statsmodels.tsa.stattools import adfuller,acf, pacf
 from math import sqrt
 import base64
+import prophet
 from prophet import Prophet
 from prophet.diagnostics import performance_metrics
 from prophet.diagnostics import cross_validation
