@@ -7,7 +7,6 @@ Created on Wed Jun  1 00:59:49 2022
 import datetime as dt
 import streamlit as st
 import pandas as pd
-import pmdarima as pm
 import numpy as np
 from sklearn.metrics import mean_absolute_error, mean_squared_error,r2_score,mean_absolute_percentage_error
 from statsmodels.tsa.stattools import adfuller,acf, pacf
