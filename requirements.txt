@@ -33,20 +33,13 @@ yfinance
 streamlit
 plotly
 joblib>=0.11
-LunarCalendar-0.0.9
-cmdstanpy-0.9.68
-convertdate-2.3.2
-ephem-4.0.0.2
-hijri-converter-2.2.0
-holidays-0.11.2
-korean-lunar-calendar-0.2.1
-pandas-1.1.5
-prophet-1.0.1
-pymeeus-0.5.11
-pystan-2.19.1.1
-setuptools-git-1.2
-tqdm-4.62.2
-ujson-4.1.0
+pandas
+prophet
+pymeeus
+pystan
+setuptools-git
+tqdm
+ujson
 
 Cython
 
