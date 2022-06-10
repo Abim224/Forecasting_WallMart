@@ -1,27 +1,27 @@
-statsforecast==0.5.5
-statsmodels==0.13.2
-streamlit==1.9.0
+statsforecast
+statsmodels
+streamlit
 
-pmdarima==1.8.5
+pmdarima
 
-cmdstanpy>=1.0.1
+cmdstanpy
 numpy
 pandas
-matplotlib>=2.0.0
+matplotlib
 
 
-setuptools>=42
-setuptools-git>=1.2
-wheel>=0.37.0
-plotly==4.14.3
-pmdarima==1.8.5
-sklearn==0.0
-pandas-datareader==0.10.0
+setuptools
+setuptools-git
+wheel
+plotly
+pmdarima
+sklearn
+pandas-datareader
 convertdate
 yfinance
 streamlit
 plotly
-joblib>=0.11
+joblib
 pandas
 
 pymeeus
